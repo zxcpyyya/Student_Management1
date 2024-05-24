@@ -1,0 +1,2 @@
+# Student_Management1
+这是用java实现的一个管理学生信息的系统
